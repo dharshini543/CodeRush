@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Size of int = %llu bytes\n",sizeof(int));
+    printf("Size  of int = %llu bytes\n",sizeof(int));
     printf("Size of float = %llu bytes\n",sizeof(float));
     printf("Size of char = %llu bytes\n",sizeof(char));
     printf("Size of double = %llu bytes\n\n",sizeof(double));
