@@ -12,7 +12,7 @@ int main()
     printf("Size of pointer = %llu bytes\n",sizeof(float *));
     printf("Size of pointer = %llu bytes\n",sizeof(double *));
     printf("Size of pointer = %llu bytes\n",sizeof(void *));
-    printf("Size of void = %llu bytes\n\n",sizeof(void));
+    printf("Size of void   =   %llu bytes\n\n",sizeof(void));
 
     printf("------------------------------------------------\n");
 
