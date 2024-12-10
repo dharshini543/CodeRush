@@ -16,8 +16,7 @@
 ## User Defined Datatypes
     1.Structure
     2.Union
-    3.typedef
-    4.enum
+    3.enum
     
 ###  Observations
 1. sizeof(12.3) will be considered as double by default and gives size as 8 bytes
